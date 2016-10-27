@@ -1,0 +1,42 @@
+*{
+   /* outline:1px solid rgba(255,0,0,0.7)*/
+}
+
+body {
+  background-image: url(Images/13132316-Resumen-textura-perfecta-de-flores-en-tonos-pastel-Foto-de-archivo.jpg);
+  margin: 0;
+  padding: 0;
+}
+
+.intro{
+    background-image: url();
+    background-position: center;
+    background-size:cover;
+}
+
+.page-wrapper{
+    outline:1px solid rgba(0,255,0,0.7)
+}
+
+body{
+    font-family: 'Dancing Script', cursive;
+    font-size:20px;
+    text-align:center;
+}
+
+.intro header h1{
+    font-family:'Creepster', cursive;
+
+}
+
+h1, h2, h3, h4 {
+   transition:all 2s; 
+}
+
+/*Cambio de color*/
+
+h1:hover {
+    color:green;
+    font:20px;
+    
+}
